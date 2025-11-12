@@ -20,6 +20,7 @@ export default {
           light: '#fafafa',
         },
       },
+      
     },
   },
   plugins: [],
