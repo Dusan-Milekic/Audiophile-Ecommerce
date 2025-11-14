@@ -1,6 +1,8 @@
 import './App.css'
 import Navigation from './components/Navigation'
 import HeroSection from './components/HeroSection'
+import CategorySection from './components/CategorySection'
+import ProductsSection from './components/ProductsSection'
 function App() {
 
 
@@ -8,6 +10,8 @@ function App() {
     <>
       <Navigation />
       <HeroSection />
+      <CategorySection />
+      <ProductsSection />
     </>
   )
 }
